@@ -136,7 +136,6 @@ const quotes = [
 "\"I am unstoppable.\" - Goku"
 ];
 
-
 const para = document.getElementById("quote");
 
 function generateNumber(){
