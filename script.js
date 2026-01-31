@@ -137,8 +137,6 @@ const quotes = [
 ];
 
 
-
-
 const para = document.getElementById("quote");
 
 function generateNumber(){
